@@ -1,1 +1,5 @@
-# Git-hub-first
+# Git-hub-first 
+rainbow colors are:
+Red 
+Yellow
+Blue
