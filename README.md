@@ -6,3 +6,4 @@ Blue
 green 
 pink
 indigo
+violet
